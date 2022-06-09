@@ -3,11 +3,6 @@
 <title>Lipex Studios: Script Hub</title>
 <link rel="stylesheet" href="epic.css">
 <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <style>
-a {
-color: #ffffff;
-}
-</style>
 </head>
 <body>
   <div class="topnav">
