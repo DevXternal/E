@@ -15,6 +15,6 @@
   <h2>A simple roblox script executor written in C#</h2>
   <p>CryT is an exploit developed by <a href="https://github.com/Obesto">Obesto</a> and is open-sourced on GitHub, it was made using Visual Studio and WRD-API, you can
     find the repository <a href="https://github.com/Obesto/CryT">here.</a></p>
-  <p>====================================================================</p>
+  <p>============================================================================================================</p>
 </body>
 </html>
