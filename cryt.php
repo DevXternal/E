@@ -17,7 +17,7 @@
     find the repository <a href="https://github.com/Obesto/CryT">here.</a></p>
   <p>============================================================================================================</p>
   <p><a href="https://github.com/Obesto/CryT/releases">Downloads</a></p>
-  <p><a href="https://github.com/Obesto/CryT/releases/tag/3.2">3.2</a>
+  <p><a href="https://github.com/Obesto/CryT/releases/tag/3.2">3.2</a></p>
   <p><a href="https://github.com/Obesto/CryT/issues/new">Report Issue</a></p>
 </body>
 </html>
