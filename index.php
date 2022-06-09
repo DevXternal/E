@@ -3,7 +3,7 @@
 <title>Lipex Studios</title>
 <link rel="stylesheet" href="epic.css">
 </head>
-<body bgcolor="black">
+<body>
   <div class="topnav">
   <a class="active" href="index.php">Home</a>
   <a href="cryt.php">CryT</a>
