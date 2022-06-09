@@ -18,7 +18,7 @@ color: #ffffff;
   </div>
   <h1>Script Hub</h1>
   <h2>Here you can share scripts and cool stuff</h2>
-  <button class="button"><span><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAEYRZYFUNUhSU05HWURGTEs3QUE0R0VVWURJM0dYNC4u">Submit Script </a></span></button>
+  <button><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAEYRZYFUNUhSU05HWURGTEs3QUE0R0VVWURJM0dYNC4u">Submit Script</a></button>
   <div><h1>Scripts</h1></div>
 </body>
 </html>
