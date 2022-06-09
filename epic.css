@@ -1,3 +1,7 @@
+body {
+margin: 0;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #000000;
