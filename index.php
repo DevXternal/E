@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Lipex Studios</title>
+<title>Lipex Studios: Home</title>
 <link rel="stylesheet" href="epic.css">
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
