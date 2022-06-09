@@ -2,6 +2,7 @@
 <head>
 <title>Lipex Studios</title>
 <link rel="stylesheet" href="epic.css">
+<link rel="icon" href="favicon.ico">
 </head>
 <body>
   <div class="topnav">
