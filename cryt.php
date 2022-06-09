@@ -13,11 +13,11 @@
   </div>
   <h1>CryT</h1>
   <h2>A simple roblox script executor written in C#</h2>
-  <p>CryT is an exploit developed by <a href="https://github.com/Obesto">Obesto</a> and is open-sourced on GitHub, it was made using Visual Studio and WRD-API, you can
-    find the repository <a href="https://github.com/Obesto/CryT">here.</a></p>
+  <p>CryT is an exploit developed by <a href="https://github.com/DevXternal">DevXternal</a> and is open-sourced on GitHub, it was made using Visual Studio and WRD-API, you can
+    find the repository <a href="https://github.com/DevXternal/CryT">here.</a></p>
   <p>============================================================================================================</p>
-  <p><a href="https://github.com/Obesto/CryT/releases">Downloads</a></p>
-  <p><a href="https://github.com/Obesto/CryT/releases/tag/3.2">3.2</a></p>
-  <p><a href="https://github.com/Obesto/CryT/issues/new">Report Issue</a></p>
+  <p><a href="https://github.com/DevXternal/CryT/releases">Downloads</a></p>
+  <p><a href="https://github.com/DevXternal/CryT/releases/tag/3.2">3.2</a></p>
+  <p><a href="https://github.com/DevXternal/CryT/issues/new">Report Issue</a></p>
 </body>
 </html>
