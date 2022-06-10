@@ -21,8 +21,8 @@
   <p><a href="https://github.com/DevXternal/CryT/issues/new">Report Issue</a></p>
   <p>============================================================================================================</p>
   <h1>Screenshots:</h1>
-  <img src="/Assets/CryTL.png" title="Launcher">
-  <img src="/Assets/CryTLE.png" title="Executor">
-  <img src="/Assets/CryTLC.png" title="LuaC Executor">
+  <img src="/Assets/CryTL.png" title="Launcher"/>
+  <img src="/Assets/CryTLE.png" title="Executor"/>
+  <img src="/Assets/CryTLC.png" title="LuaC Executor"/>
 </body>
 </html>
