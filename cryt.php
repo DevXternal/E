@@ -3,6 +3,7 @@
 <title>Lipex Studios: CryT</title>
 <link rel="stylesheet" href="epic.css">
 <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <meta name="description" content="CryT is an open-source exploit that can run both Lua & LuaC scripts."/>
 </head>
 <body>
   <div class="topnav">
