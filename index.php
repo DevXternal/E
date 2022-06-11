@@ -3,6 +3,7 @@
 <title>Lipex Studios: Home</title>
 <link rel="stylesheet" href="epic.css">
 <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <meta name="description" content="The homepage for Lipex Studios."/>
 </head>
 <body>
   <div class="topnav">
