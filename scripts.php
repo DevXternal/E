@@ -3,6 +3,7 @@
 <title>Lipex Studios: Script Hub</title>
 <link rel="stylesheet" href="epic.css">
 <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <meta name="description" content="Welcome to Lipex script hub, dont worry about broken scripts, we test scripts out to see if they work, we will sort them in R6 and R15 category's."/>
 </head>
 <body>
   <div class="topnav">
