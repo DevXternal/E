@@ -18,7 +18,7 @@
     find the repository <a href="https://github.com/DevXternal/CryT">here.</a></p>
   <p>============================================================================================================</p>
   <p><a href="https://github.com/DevXternal/CryT/releases">Downloads</a></p>
-  <p><a href="https://github.com/DevXternal/CryT/releases/tag/3.2">3.2</a></p>
+  <p><a href="https://github.com/DevXternal/CryT/releases/tag/3.3">3.3</a></p>
   <p><a href="https://github.com/DevXternal/CryT/issues/new">Report Issue</a></p>
   <p>============================================================================================================</p>
   <h1>Screenshots:</h1>
