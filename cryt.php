@@ -1,15 +1,15 @@
 <html>
 <head>
-<title>Lipex Studios: CryT</title>
+<title>DevX: CryT</title>
 <link rel="stylesheet" href="epic.css">
 <link rel="icon" type="image/x-icon" href="favicon.ico">
   <meta name="description" content="CryT is an open-source exploit that can run both Lua & LuaC scripts."/>
 </head>
 <body>
   <div class="topnav">
-  <a href="index.php">Home</a>
-  <a class="active" href="cryt.php">CryT</a>
-  <a href="scripts.php">Script Hub</a>
+  <a href="index.html">Home</a>
+  <a class="active" href="cryt.html">CryT</a>
+  <a href="scripts.html">Script Hub</a>
   <a href="https://github.com/Lipex-Studios">GitHub</a>
   </div>
   <h1>CryT</h1>
