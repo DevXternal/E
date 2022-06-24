@@ -16,5 +16,6 @@
   <h2>Here you can share scripts and cool stuff</h2>
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAEYRZYFUNUhSU05HWURGTEs3QUE0R0VVWURJM0dYNC4u" class="epic">Submit Script</a>
   <div><h1>Scripts</h1></div>
+  <a href="https://link-hub.net/449722/nexus-hub-v1-official" class="epic">Nexus Hub v1</a>
 </body>
 </html>
